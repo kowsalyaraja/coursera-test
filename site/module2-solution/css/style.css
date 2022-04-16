@@ -4,7 +4,6 @@
     padding: 0%;
 }
 body{
- 
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .row {
@@ -59,7 +58,7 @@ p{
   }
 
   
-/*****Desktop View*****/
+/******Desktop View******/
 @media (min-width: 992px) {
     .firstmeal, .secondmeal, .thirdmeal{
       float: left;
@@ -67,7 +66,7 @@ p{
     }
   }
   
-  /******Tablet View*******/
+  /******Tablet View******/
   @media (min-width: 768px) and (max-width: 991px) {
     .firstmeal, .secondmeal, .thirdmeal{
       float: left;
