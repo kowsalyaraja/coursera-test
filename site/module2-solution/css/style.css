@@ -60,7 +60,7 @@ p{
   
 /*****Desktop View*****/
 @media (min-width: 992px) {
-    .first-meal, .second-meal, .third-meal{
+    .firstmeal, .secondmeal, .thirdmeal{
       float: left;
       width: 31%;
     }
@@ -68,11 +68,11 @@ p{
   
   /******Tablet View*******/
   @media (min-width: 768px) and (max-width: 991px) {
-    .first-meal, .second-meal, .third-meal{
+    .firstmeal, .secondmeal, .thirdmeal{
       float: left;
       width: 47.5%;
     }
-    .third{
+    .thirdmeal{
       float: left;
       width: 97.5%;
     }
