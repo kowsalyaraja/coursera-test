@@ -1,11 +1,11 @@
 .navbar{
-    background-color: darkgrey;
+    background-color: gray;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
 
 .content{
-    background-color: darkgrey;
+    background-color: gray;
     margin: auto;
     padding: auto;
     width: 90%;
