@@ -1,11 +1,11 @@
 .navbar{
-    background-color: gray;
+    background-color: #D3D3D3;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
 
 .content{
-    background-color: gray;
+    background-color: #D3D3D3;
     margin: auto;
     padding: auto;
     width: 90%;
@@ -26,3 +26,16 @@
 .navbar-toggler{
     margin: 2px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
